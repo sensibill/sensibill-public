@@ -1,0 +1,2 @@
+tensorflow-model-server_1.12.0_all.deb filter=lfs -text
+tensorflow_model_server_1.12.0 filter=lfs -text
